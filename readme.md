@@ -3,13 +3,15 @@
 
 
 <p align="center">
- <b>Screenshot of the Custom Starship Terminal</b><br>
+ <b>Screenshots of the Custom Starship Terminal</b><br>
 
   <img src="https://user-images.githubusercontent.com/66456103/123532891-d95ab500-d72e-11eb-968f-35b622a1e856.png">
+  <img src="https://user-images.githubusercontent.com/66456103/123533673-d498ff80-d734-11eb-9261-bcd8c27bf56e.png">
+
 </p>
 
 ------
-
+<br>
 
 > [Official Starship Website ](https://starship.rs/)    
 > Customize your own Terminal
@@ -39,7 +41,8 @@ mkdir -p ~/.config && touch ~/.config/starship.toml
 > Copy Paste the contents from the starship.toml file in this Repo or use your own Custom content
 > Feel Free to use.
 ```
-
+---
+<br>
 
 <h3 style="text-align: center;" markdown="1">Raj 🙂</h3>
 
